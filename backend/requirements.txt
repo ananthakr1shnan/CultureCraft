@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+groq
+pdfplumber
+pydanticgroq
+python-dotenv
+pdfplumber
+edge-tts
